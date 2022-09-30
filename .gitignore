@@ -1,5 +1,13 @@
 # Ignore all object and exe files from folders
 
-**/*.o
-**/*.exe
-**/*.file
+C Programs/*.o
+C Programs/*.exe
+
+C++ Programs/*.o
+C++ Programs/*.exe
+
+Programs of C/*.o
+Programs of C/*.exe
+
+Programs of Data Structure/*.o
+Programs of Data Structure/*.exe

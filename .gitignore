@@ -1,4 +1,3 @@
 # Ignore all object and exe files from folders
 
-*.o
-*.exe
+*s
